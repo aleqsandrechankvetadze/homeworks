@@ -1,11 +1,9 @@
 from turtle import *
 
-
 def draw_square():
     for i in range(4):
         forward(100)
         left(90)
-
 
 # abstaction  აბსტრაქცია
 
@@ -28,6 +26,5 @@ goto(-300, -0)
 pendown()
 
 draw_square()
-
 
 exitonclick()

@@ -3,13 +3,11 @@
 # 3) set 
 # 4) dictionary 
 
-
 #1
 # my_list = [1,2,3,10,20]  #სიაში შეგვიძლია ყველაფრის გაკეთება
 
 # my_list.append(15)
 # my_list.insert(2,15)
-
 
 # print(my_list)
 

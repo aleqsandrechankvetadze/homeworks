@@ -2,7 +2,6 @@ print()
 
 
 
-
 # def nikas_function():
 #     print("gamarjoba me var nika")
 
@@ -20,7 +19,6 @@ zogadi_function("nika")
 zogadi_function("zuka")
 zogadi_function("luka")
 zogadi_function("gio")
-
 
 def gamravlebis_function(a, b):
     print(a * b)
